@@ -9,4 +9,4 @@ This project is a graphical user interface (GUI) based animal racing competition
 - **Multithreading**: Smooth performance using threads for concurrent execution.
 
 ## Installation
-1. Clone the repository
+- Clone the repository
